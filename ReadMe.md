@@ -8,9 +8,9 @@ The _*data.Json*_ demo data was gotten from => [jsonplaceholder.typicode.com](ht
 
 ## Requirements:
 
-[FastAPI](https://fastapi.tiangolo.com/) => pip install fastapi
-[Uvicorn](https://www.uvicorn.org/) => pip install "uvicorn[standard]"
-[Repo clone](https://github.com/stevemats/PaginationDemo) => git clone https://github.com/stevemats/PaginationDemo.git
+- [FastAPI](https://fastapi.tiangolo.com/) => pip install fastapi
+- [Uvicorn](https://www.uvicorn.org/) => pip install "uvicorn[standard]"
+- [Repo clone](https://github.com/stevemats/PaginationDemo) => git clone https://github.com/stevemats/PaginationDemo.git
 
 ---
 
